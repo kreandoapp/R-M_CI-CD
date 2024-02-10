@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808923540676",
+    "firebase_url": "https://deliveryapp-9e9c2.firebaseio.com",
+    "project_id": "deliveryapp-9e9c2",
+    "storage_bucket": "deliveryapp-9e9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808923540676:android:f5b13fcb745049ed7c6d91",
+        "android_client_info": {
+          "package_name": "com.example.rickandmorty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808923540676-360tr9gnn0h5gqvppna21a5i9n0tbge8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLgjZ-mSZ2zcdV_AB7QWYsaHHeRR7-t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808923540676-360tr9gnn0h5gqvppna21a5i9n0tbge8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
