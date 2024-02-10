@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:808923540676:android:f5b13fcb745049ed7c6d91",
+        "mobilesdk_app_id": "1:808923540676:android:20c075345f6ea56c7c6d91",
         "android_client_info": {
           "package_name": "com.example.rickandmorty"
         }

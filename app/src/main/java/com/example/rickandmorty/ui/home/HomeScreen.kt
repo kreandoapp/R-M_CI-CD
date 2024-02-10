@@ -58,6 +58,7 @@ fun HomeScreen(
     }
 
     
+    
   /*  LaunchedEffect(key1 = true) {
         viewModel.getCharacters(false)
         *//*eventFlow.collectLatest { event ->
